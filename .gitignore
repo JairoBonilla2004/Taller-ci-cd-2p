@@ -1,0 +1,4 @@
+# colocar aqui las rutas de los archivos y carpetas que no quieres que git suba al repositorio
+.env
+node_modules/
+dist/
